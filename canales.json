@@ -1,18 +1,18 @@
 [
   {
-    "nombre": "Disney+ (Evento / Partido)",
+    "nombre": "ESPN - Frosinone vs. Lecce (En Vivo)",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
+    "videoUrl": "https://linear-cfc-sa-east-2.media.dssott.com/dvt2=exp=1793388389~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F7e984bb3-92bc-4c1e-8ed2-c66ad9d996ce-1783702531317%2F~psid=03c878a2-65f4-4d0b-a1f5-3179f65627d6~aid=27834ef5-892b-4ecd-bf65-78ca0fa5202a~did=50ba2487-5515-4fe2-9178-63262b74b34f~country=AR~kid=k02~hmac=7d140e00295e259f1c522741ca9de68cc0c352872930d0104003613cca67a6a6/gru1/va01/disneyplus/channel/7e984bb3-92bc-4c1e-8ed2-c66ad9d996ce-1783702531317/cmaf-cenc-ctr-7000K/7000_slide_alt1.m3u8",
+    "categoria": "Disney"
+  },
+  {
+    "nombre": "Disney+ - Austria Wien vs. Juventus",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
     "videoUrl": "https://live-ftc-sa-east-2.media.dssott.com/dvt2=exp=1793386221~url=%2Flas1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F10%2F29%2FFk_Austria_Wien_vs_Juvent_20261029_1793289610018%2F~psid=5548e4fa-6e0e-451e-8044-e8ede61e1b08~aid=27834ef5-892b-4ecd-bf65-78ca0fa5202a~did=50ba2487-5515-4fe2-9178-63262b74b34f~country=AR~kid=k02~hmac=d2db121ba5004896adf1f11054e066a2744a1e083066f43c9c6e068a8dbe9a62/las1/va01/disneyplus/event/2026/10/29/Fk_Austria_Wien_vs_Juvent_20261029_1793289610018/cmaf-cenc-ctr-7000K/302/18/50/43_977.mp4",
     "categoria": "Disney"
   },
   {
-    "nombre": "Disney Channel En Vivo",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
-    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "categoria": "Disney"
-  },
-  {
-    "nombre": "Big Buck Bunny",
+    "nombre": "Big Buck Bunny (Prueba MP4)",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "categoria": "Animación"
